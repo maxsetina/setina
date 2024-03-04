@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>setina.com.ar</title>
+	<atom:link href="https://maxsetina.github.io/setina-www/feed/" rel="self" type="application/rss+xml" />
+	<link>https://maxsetina.github.io/setina-www/</link>
+	<description>Photographer &#38; Filmmaker</description>
+	<lastBuildDate>Mon, 26 Feb 2024 19:45:20 +0000</lastBuildDate>
+	<language>es-AR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://maxsetina.github.io/setina-www/wp-content/uploads/2021/05/Logo-SETINA-01-e1708539681115-150x150.png</url>
+	<title>setina.com.ar</title>
+	<link>https://maxsetina.github.io/setina-www/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Starbucks</title>
+		<link>https://maxsetina.github.io/setina-www/starbucks/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2024 17:15:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://maxsetina.github.io/setina-www/?p=1603</guid>
+
+					<description><![CDATA[Starbucks]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1603" class="elementor elementor-1603">
+				<div class="elementor-element elementor-element-21933d7f e-con-full e-flex e-con e-parent" data-id="21933d7f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;}" data-core-v316-plus="true">
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+</svg>		</div>
+		<div class="elementor-element elementor-element-6479265 e-con-full e-flex e-con e-child" data-id="6479265" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-39fb7b97 elementor-widget elementor-widget-icon-box" data-id="39fb7b97" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://maxsetina.github.io/setina-www/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-content">
+				<h1 class="elementor-icon-box-title">
+					<span  >
+						Starbucks					</span>
+				</h1>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-266cf340 e-flex e-con-boxed e-con e-parent" data-id="266cf340" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1d61128e elementor-widget elementor-widget-shortcode" data-id="1d61128e" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"></div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-3742298a e-con-full e-flex e-con e-parent" data-id="3742298a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;tilt&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;}" data-core-v316-plus="true">
+				<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+</svg>		</div>
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+</svg>		</div>
+		<div class="elementor-element elementor-element-4e96ea88 e-con-full e-flex e-con e-child" data-id="4e96ea88" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
